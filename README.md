@@ -29,3 +29,4 @@ bernama README.md (text file)
 22. Membuat repository server, server reopsitory yang akan kita gunakan adalah http://github.com
 23. Anda harus membuat akun terlebih dahulu.Pada laman github, klik tombol start a project, atau Dari menu (icon +) klik New
 Repository
+![newrepository](https://user-images.githubusercontent.com/57305570/68079455-65aeba80-fe1c-11e9-80a3-7b3d3a5cac86.png)
