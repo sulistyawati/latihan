@@ -14,7 +14,7 @@
 11.sehingga muncul git bash commad  
 12. Buat direktory project praktikum pertama dengan nama --latihan1--
 13. Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd direktory
-aktif menjadi: d:\latihan1picky  
+aktif menjadi: d:\latihan1 
 14. Membuat Repository Local Jalankan perintah git init, untuk membuat repository local Repository baru berhasil di inisialisasi,
 15.dengan terbentuknya satu direktori hidden dengan nama .git  
 16. Pada direktori tersebut, semua perubahan pada working directoryakan disimpan. Menambahkan File baru pada repositor untuk membuat
